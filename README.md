@@ -37,7 +37,7 @@ Python과 TensorFlow를 사용하여 이론과 실제 사례를 배우며, 산�
 ### LJS 진행 상황
 
 - **신경망과 딥러닝**: ![100%](https://geps.dev/progress/100)
-- **딥러닝 모델 최적화**: ![25%](https://geps.dev/progress/25)
-- **머신러닝 프로젝트 구조화**: ![0%](https://geps.dev/progress/0)
-- **합성곱 신경망**: ![0%](https://geps.dev/progress/0)
-- **순차 모델**: ![0%](https://geps.dev/progress/0)
+- **딥러닝 모델 최적화**: ![100%](https://geps.dev/progress/100)
+- **머신러닝 프로젝트 구조화**: ![100%](https://geps.dev/progress/100)
+- **합성곱 신경망**: ![100%](https://geps.dev/progress/100)
+- **순차 모델**: ![20%](https://geps.dev/progress/0)
